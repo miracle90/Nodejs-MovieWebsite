@@ -1,0 +1,16 @@
+{
+  "name": "imooc",
+  "description": "imooc",
+  "main": "app.js",
+  "keywords": [
+    "imooc"
+  ],
+  "authors": [
+    "li"
+  ],
+  "license": "MIT",
+  "homepage": "app.js",
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}

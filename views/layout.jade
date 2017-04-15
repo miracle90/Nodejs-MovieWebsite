@@ -1,0 +1,10 @@
+//- 布局文件，放html公用的代码，抽象成一个区块
+doctype
+html
+	head
+		meta(charset="utf-8")
+		title #{title}
+		include ./includes/head
+	body
+		include ./includes/header
+		block content
